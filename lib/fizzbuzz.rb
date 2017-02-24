@@ -8,6 +8,7 @@ class Fizzbuzz
       'fizz'
     elsif number % 5 == 0
       'buzz'
+    
     else
       number
     end
